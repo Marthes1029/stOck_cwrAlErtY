@@ -1,0 +1,9 @@
+<params>
+    <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+    <excelName>大立光</excelName>
+    <startYear>2022</startYear>
+    <startMonth>11</startMonth>
+    <endYear>2023</endYear>
+    <endMonth>12</endMonth>
+    <stockNo>3008</stockNo>
+</params>
